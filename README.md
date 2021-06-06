@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjbabadi&show_icons=true&title_color=9ce3b1&bg_color=e9f0f2&locale=en&layout=compact" alt="sjbabadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjbabadi&show_icons=true&title_color=9ce3b1&text_color=0b0a0a&bg_color=e9f0f2&hide_border=true&locale=en" alt="sjbabadi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sjbabadi&show_icons=true&title_color=9ce3b1&text_color=0b0a0a&bg_color=e9f0f2&hide_border=true&locale=en" alt="sjbabadi" /></p>
