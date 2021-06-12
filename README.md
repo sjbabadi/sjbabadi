@@ -6,7 +6,7 @@
 - 🌱 Visit my [website](https://sjbabadi.com)
 
 - 📫 Send me an [email](mailto:sheila.babadi@yahoo.com)
-- 📄 Learn more about my experience: [Resume](https://sjbabadi.com/assets/resume-v1.pdf)
+- 📄 Learn more about my experience: [Resume](https://sjbabadi.com/assets/resume-v4.pdf)
 
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
