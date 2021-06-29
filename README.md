@@ -2,7 +2,8 @@
 <h2 align="center">A fullstack software engineer currently based in Jacksonville, FL.</h2>
 
 <h3>🔭 I most recently co-created Gander, an open-source solution for automating preview environments of web applications using Cloud Native Buildpacks, Github Actions, and AWS.</h3>
-- Check out the technical case study [here](https://gander-framework.github.io).
+
+<p>Check out the technical case study <a href="https://gander-framework.github.io" target="_blank">here</a>.</p>
 
 - 🌱 Visit my [website](https://sjbabadi.com)
 
