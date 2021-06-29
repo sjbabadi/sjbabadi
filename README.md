@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheila</h1>
-<h3 align="center">A fullstack software engineer currently based in Jacksonville, FL.</h3>
+<h2 align="center">A fullstack software engineer currently based in Jacksonville, FL.</h2>
 
-- 🔭 I most recently co-created [Gander](https://gander-framework.github.io), an open-source solution for automating preview environments of web applications using Cloud Native Buildpacks, Github Actions, and AWS. Check out the technical case study [here](https://gander-framework.github.io).
+<h3>🔭 I most recently co-created [Gander](https://gander-framework.github.io), an open-source solution for automating preview environments of web applications using Cloud Native Buildpacks, Github Actions, and AWS. Check out the technical case study [here](https://gander-framework.github.io).</h3>
 
 - 🌱 Visit my [website](https://sjbabadi.com)
 
